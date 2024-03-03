@@ -1,0 +1,26 @@
+Yo whats up. Here are a few cool things you can do in the physics simulator
+
+Left Click - spawn 10 balls
+Left Click + g - change gravity
+Left Click + backspace - delete balls
+
+Right Click - suck in balls
+Shift + Right Click - push away balls
+
+Right/Left Arrows - change delta
+Down Arrow - reset delta
+Space - Pause Simulation(key inputs still work)
+Backspace + shift - delete all balls
+
+a - angles
+e - spawn single ball
+q/w - change ball size
+r/t - change ball elasticity
+p - reset velocity
+c - see chunks
+v - see vectors
+
+s - see speed
+d - see pressure
+
+Just so you know, its not that hard to program your own rules and I suggest you give it a try. Ok have fun!

@@ -1,0 +1,8 @@
+from vector import Vec2
+
+ANGLECALCULATIONS = True
+BALLSIZE = 10
+BALLELASTICITY = 0.3
+GRAVITYVEC = Vec2((0,9.807))
+
+DRAWVECTOR = False
